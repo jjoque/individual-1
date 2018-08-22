@@ -1,7 +1,7 @@
 # individual-1
 chrome extension to redact the name of individual-1
 
-##instilation instructions
+## installation instructions
 Sorry everyone, I did not want to pay the $5 to put this in the chrome webstore; so you'll have to install this manually but it is easy
 
 1. Download this repository. In the upper right corner there is a green button that says 'clone or download'. Click on that and select download zip.
